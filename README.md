@@ -72,4 +72,4 @@ WV
 WY
 ```
 
-<p>&copy; <a href='http://vadimg.com' target="_blank">Vadim Vincent Gabriel</a> 2012</p>
+<p>&copy; <a href='http://vadimg.com' target="_blank">Vadim Vincent Gabriel</a> 2013</p>
