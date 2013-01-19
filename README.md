@@ -7,6 +7,7 @@ This list contains nearly 42,000 Zip Codes from 62 Different states (Including P
 
 There is one MYSQL dump file that contains a table 'zip_code' with 4 columns (zip_code, city, county, state)
 
+```
 AA
 AE
 AK
@@ -69,6 +70,6 @@ WA
 WI
 WV
 WY
-
+```
 
 <p>&copy; <a href='http://vadimg.com' target="_blank">Vadim Vincent Gabriel</a> 2012</p>
